@@ -2,9 +2,9 @@
 
 ## Dataset Overview
 
-**Link**: https://archive.ics.uci.edu/dataset/502/online+retail+ii
-
 A real online retail transaction data set of two years.
+
+**Link**: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ### Dataset Characteristics
 
