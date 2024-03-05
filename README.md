@@ -45,3 +45,10 @@ Yes
 
 **Country**: Country name. Nominal. The name of the country where a customer resides.
 
+## Applied Models
+
+**KMeans Clustering**
+
+**Agglomerative Clustering**
+
+**DBSCAN Clustering**
